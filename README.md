@@ -1,4 +1,4 @@
-# lecture-30-conflicts this is remote
+# lecture-29-conflicts
 
 *
 * This is feature 1
