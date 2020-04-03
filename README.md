@@ -1,2 +1,5 @@
 # lecture-30-conflicts this is remote
-Making a change 
+
+*
+* This is feature 1
+*
